@@ -13,4 +13,13 @@ void echoEcho() {
 	Console.ReadKey();
 }
 
-echoEcho();
+// echoEcho();
+
+// "Create a function that takes two numbers as paramaters adds them together and returns the sum of the two numbers."
+double addTwo(double value1, double value2) {
+
+	double valueSum = value1 + value2;
+	return valueSum;
+}
+
+Console.WriteLine(addTwo(30.00002, 2));
