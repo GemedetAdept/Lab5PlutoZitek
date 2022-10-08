@@ -7,7 +7,7 @@ Lab 5: Functions/Methods
 
 [x] Function which asks for user input and returns the user input
 
-[ ] Function which takes two numbers, adds them, returns the sum
+[x] Function which takes two numbers, adds them, returns the sum
 
 [ ] Function which takes two numbers, subtracts them, returns the difference
 
