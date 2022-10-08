@@ -13,6 +13,6 @@ Lab 5: Functions/Methods
 
 [x] Function which takes two numbers, multiplies them, returns the product
 
-[ ] Function which takes two numbers, divides them, returns the quotent
+[x] Function which takes two numbers, divides them, returns the quotent
 
 [ ] Driver program "menu," allow user to choose arithmetic option

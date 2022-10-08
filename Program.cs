@@ -26,24 +26,35 @@ Snippet.Break();
 Snippet.Note("Addition");
 Snippet.Note(valuesAdd(30.00002, 2));
 
-// "Function which takes two numbers, subtracts them, returns the difference"
+// "Function which takes two numbers, subtracts them, returns the difference."
 double valuesSubtract(double value1, double value2) {
 
-	double valueSum = value1 - value2;
-	return valueSum;
+	double valueDifference = value1 - value2;
+	return valueDifference;
 }
 
 Snippet.Break();
 Snippet.Note("Subtraction");
 Snippet.Note(valuesSubtract(28, 53));
 
-// "Function which takes two numbers, multiplies them, returns the product"
+// "Function which takes two numbers, multiplies them, returns the product."
 double valuesMultiply(double value1, double value2) {
 
-	double valueSum = value1 * value2;
-	return valueSum;
+	double valueProduct = value1 * value2;
+	return valueProduct;
 }
 
 Snippet.Break();
 Snippet.Note("Multiply");
 Snippet.Note(valuesMultiply(5, 11));
+
+// "Function which takes two numbers, divides them, returns the quotent."
+double valuesDivide(double value1, double value2) {
+
+	double valueQuotient = value1 / value2;
+	return valueQuotient;
+}
+
+Snippet.Break();
+Snippet.Note("Divide");
+Snippet.Note(valuesDivide(3, 24));
