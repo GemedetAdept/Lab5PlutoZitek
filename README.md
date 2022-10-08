@@ -11,7 +11,7 @@ Lab 5: Functions/Methods
 
 [x] Function which takes two numbers, subtracts them, returns the difference
 
-[ ] Function which takes two numbers, multiplies them, returns the product
+[x] Function which takes two numbers, multiplies them, returns the product
 
 [ ] Function which takes two numbers, divides them, returns the quotent
 

@@ -36,3 +36,14 @@ double valuesSubtract(double value1, double value2) {
 Snippet.Break();
 Snippet.Note("Subtraction");
 Snippet.Note(valuesSubtract(28, 53));
+
+// "Function which takes two numbers, multiplies them, returns the product"
+double valuesMultiply(double value1, double value2) {
+
+	double valueSum = value1 * value2;
+	return valueSum;
+}
+
+Snippet.Break();
+Snippet.Note("Multiply");
+Snippet.Note(valuesMultiply(5, 11));
