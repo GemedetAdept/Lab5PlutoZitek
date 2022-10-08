@@ -9,7 +9,7 @@ Lab 5: Functions/Methods
 
 [x] Function which takes two numbers, adds them, returns the sum
 
-[ ] Function which takes two numbers, subtracts them, returns the difference
+[x] Function which takes two numbers, subtracts them, returns the difference
 
 [ ] Function which takes two numbers, multiplies them, returns the product
 
