@@ -22,4 +22,17 @@ double valuesAdd(double value1, double value2) {
 	return valueSum;
 }
 
-Console.WriteLine(valuesAdd(30.00002, 2));
+Snippet.Break();
+Snippet.Note("Addition");
+Snippet.Note(valuesAdd(30.00002, 2));
+
+// "Function which takes two numbers, subtracts them, returns the difference"
+double valuesSubtract(double value1, double value2) {
+
+	double valueSum = value1 - value2;
+	return valueSum;
+}
+
+Snippet.Break();
+Snippet.Note("Subtraction");
+Snippet.Note(valuesSubtract(28, 53));

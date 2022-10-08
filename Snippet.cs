@@ -6,4 +6,10 @@ public class Snippet {
 		Console.WriteLine(lineBreak);
 
 	}
+
+	public static void Note (object tempMessage) {
+
+		tempMessage = tempMessage.ToString();
+		Console.WriteLine($"* {tempMessage} *");
+	}
 }
