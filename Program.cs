@@ -118,8 +118,9 @@ void selectionMenu() {
 	}
 }
 
+// Extra TODO: Add extra menu to display options for ASCII cat and "echo" function.
 void extraMenu() {
-	
+
 }
 
 void valueInput() {
