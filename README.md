@@ -3,7 +3,7 @@ Lab 5: Functions/Methods
 
 ### Lab Requirements Checklist:
 
-[ ] Void function which displays a cat on the console
+[x] Void function which displays a cat on the console
 
 [x] Function which asks for user input and returns the user input
 
@@ -13,6 +13,6 @@ Lab 5: Functions/Methods
 
 [x] Function which takes two numbers, multiplies them, returns the product
 
-[x] Function which takes two numbers, divides them, returns the quotent
+[x] Function which takes two numbers, divides them, returns the quotient
 
 [ ] Driver program "menu," allow user to choose arithmetic option

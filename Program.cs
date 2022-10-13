@@ -1,5 +1,33 @@
 ﻿// Lab 5 - Functions and Methods
 
+// "Create a `void` function which displays a cat on the console"
+void displayKitty() {
+	string asciiKitty = @$"
+      ^    ^
+     / \  / \
+   _/---LJ---\_
+  /            \
+ /  /*@\  /*@\  \
+|   \__/  \__/   |
+|       __       |
+ \__    \/    __/
+    *--------*
+      /    \            .---.
+    _*      *_         / /--/
+  ./          \.       | |
+  |            |     _-/ /
+ .|            |.   * ._/
+./              \._/ /
+|                |__/
+\_              _/
+  *------------*";
+
+Console.WriteLine(asciiKitty);
+}
+
+displayKitty();
+
+
 // "Create a function that asks for user input and returns the user input"
 void echoEcho() {
 
