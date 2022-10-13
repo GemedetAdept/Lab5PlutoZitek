@@ -15,4 +15,4 @@ Lab 5: Functions/Methods
 
 [x] Function which takes two numbers, divides them, returns the quotient
 
-[ ] Driver program "menu," allow user to choose arithmetic option
+[x] Driver program "menu," allow user to choose arithmetic option
